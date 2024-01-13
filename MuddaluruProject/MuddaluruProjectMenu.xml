@@ -1,0 +1,242 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<menu>
+	<apetizers>
+		<apvegetarian>
+			<name>Gobi Manchurian</name>
+			<price>$9.99</price>
+			<description>Battered cauliflower sauteed with onions, bell peppers, and soy sauce</description>
+		</apvegetarian>
+		<apvegetarian>
+			<name>Veg Manchurian</name>
+			<price>$9.99</price>
+			<description>Mixed vegetable dumpling cooked in Indo Chinese style</description>
+		</apvegetarian>
+		<apvegetarian>
+			<name>Baby Corn Manchurian</name>
+			<price>$9.99</price>
+			<description>Baby corn sauteed with onions and green chili sauce</description>
+		</apvegetarian>
+		<apvegetarian>
+			<name>Chilli Gobi</name>
+			<price>$9.99</price>
+			<description>Lightly battered Cauliflower sauteed with onions and green chillies</description>
+		</apvegetarian>
+		<apvegetarian>
+			<name>Paneer 65</name>
+			<price>$10.49</price>
+			<description>Deep fried paneer cooked in special sauce with cashew nuts</description>
+		</apvegetarian>
+		<apvegetarian>
+			<name>Chilli Paneer</name>
+			<price>$10.49</price>
+			<description>Deep fried Paneer Sauteed with onion and green chilies</description>
+		</apvegetarian>
+		<apnonvegetarian>
+			<name>Chicken 65</name>
+			<price>$10.99</price>
+			<description>Spring chicken marinated with ginger,garlic and fried for a lovely taste</description>
+		</apnonvegetarian>
+		<apnonvegetarian>
+			<name>Chilli Chicken</name>
+			<price>$10.99</price>
+			<description>Fried chicken sauteed with onions, bell peppers and chilies, indo-Chinese style</description>
+		</apnonvegetarian>
+		<apnonvegetarian>
+			<name>Chicken Lollipops</name>
+			<price>$11.49</price>
+			<description>Chicken drumsticks marinated in spices, coated in batter, deep fried and served with hot garlic sauce</description>
+		</apnonvegetarian>
+		<apnonvegetarian>
+			<name>Pepper Chicken</name>
+			<price>$11.99</price>
+			<description>Deep fried chicken cooked with pepper and cashews</description>
+		</apnonvegetarian>
+		<apnonvegetarian>
+			<name>Chicken Majestic</name>
+			<price>$11.99</price>
+			<description>Dry chicken marinated with Indian spices and sauteed in Indochinese Manchurian stylex</description>
+		</apnonvegetarian>
+	</apetizers>
+	<soups>
+		<soupvegetarian>
+			<name>Veg Corn Soup</name>
+			<price>$4.49</price>
+			<description>Thin soup made with sweet corn kernels and vegetables</description>
+		</soupvegetarian>
+		<soupvegetarian>
+			<name>Tomato Soup</name>
+			<price>$3.99</price>
+			<description>Home style tomato soup flavored with coriander, cumin and spices</description>
+		</soupvegetarian>
+		<soupvegetarian>
+			<name>Hot and Sour Soup</name>
+			<price>$4.99</price>
+			<description>Thick soup with julienne cut vegetables soup</description>
+		</soupvegetarian>
+		<soupnonvegetarian>
+			<name>Chicken SweetCorn Soup</name>
+			<price>$4.99</price>
+			<description>Home style sweet corn and boneless chicken soup</description>
+		</soupnonvegetarian>
+		<soupnonvegetarian>
+			<name>Chicken Hot and Sour SOup</name>
+			<price>$4.99</price>
+			<description>Thick soup with julienne cut Boneless Chicken soup</description>
+		</soupnonvegetarian>
+		<soupnonvegetarian>
+			<name>Chicken Manchow Soup</name>
+			<price>$4.49</price>
+			<description>Home style boneless chicken with manchow soup</description>
+		</soupnonvegetarian>
+	</soups>
+	<curryentrees>
+		<curryvegetarian>
+			<name>Dal Tadka</name>
+			<price>$8.99</price>
+			<description>Yellow lentils sauteed with onions, tomatoes and spices</description>
+		</curryvegetarian>
+		<curryvegetarian>
+			<name>Aloo Gobi Masala</name>
+			<price>$9.99</price>
+			<description>Potatoes and cauliflower cooked in north Indian style gravy</description>
+		</curryvegetarian>
+		<curryvegetarian>
+			<name>Channa Palak</name>
+			<price>$9.99</price>
+			<description>Channa and palak with onions, tomatoes, cream and spices</description>
+		</curryvegetarian>
+		<curryvegetarian>
+			<name>Paneer Tikka Masala</name>
+			<price>$11.49</price>
+			<description>Homemade cheese cubes cooked in tomato sauce with a touch of special cream</description>
+		</curryvegetarian>
+		<currynonvegetarian>
+			<name>Chicken Tikka Masala</name>
+			<price>$12.49</price>
+			<description>Boneless grilled chicken cooked with tomato, special spices and a touch of cream</description>
+		</currynonvegetarian>
+		<currynonvegetarian>
+			<name>Butter Chicken</name>
+			<price>$11.99</price>
+			<description>Chicken cooked with spices, herbs and rich buttery sauce</description>
+		</currynonvegetarian>
+		<currynonvegetarian>	
+			<name>Chicken Mughlai</name>
+			<price>$11.99</price>
+			<description>Pieces of chicken in delicious creamy gravy with egg and coriander</description>
+		</currynonvegetarian>
+		<currynonvegetarian>
+			<name>Chicken Chettinadu</name>
+			<price>$12.99</price>
+			<description>Chettinadu traditional curry made with peppercorns and boneless meat</description>
+		</currynonvegetarian>
+	</curryentrees>
+	<kids>
+		<kidsvegetarian>
+			<name>Cheese Dosa</name>
+			<price>$8.99</price>
+			<description>Crepe With Cheese Topping And Stuffed If Needed</description>
+		</kidsvegetarian>
+		<kidsvegetarian>
+			<name>Chocolate Dosa (With Nutella)</name>
+			<price>$8.99</price>
+			<description>Crepe Made With Nutella Topping.</description>
+		</kidsvegetarian>
+		<kidsvegetarian>
+			<name>Choco Chip Uthappam</name>
+			<price>$8.99</price>
+			<description>A Thick Crepe Topped With Choco Chips.</description>
+		</kidsvegetarian>
+		<kidsvegetarian>
+			<name>French Fries</name>
+			<price>$5.99</price>
+			<description>A Desi Style French Fries.</description>
+		</kidsvegetarian>
+		<kidsnonvegetarian>
+			<name>Chicken Noodles</name>
+			<price>$7.99</price>
+			<description>Desi Style Noodles Served With Maggi Ketchup.</description>
+		</kidsnonvegetarian>
+		<kidsnonvegetarian>
+			<name>Chicken Dosa</name>
+			<price>$10.49</price>
+			<description>Crepe With Cheese Topping, boneless chicken And Stuffed If Needed</description>
+		</kidsnonvegetarian>
+		<kidsnonvegetarian>
+			<name>Chicken Naan</name>
+			<price>$3.99</price>
+			<description>Thick Chewy Bread which is stuffed with chicken pieces.</description>
+		</kidsnonvegetarian>
+		<kidsnonvegetarian>
+			<name>Kids Chicken pizza</name>
+			<price>$6.99</price>
+			<description>Mini size Piza with chicken, tomato, onions, cheese and stuffed with additional toppings.</description>
+		</kidsnonvegetarian>
+	</kids>
+	<biryani>
+		<biryanivegetarian>
+			<name>Veg Dum Biryani</name>
+			<price>$10.99</price>
+		</biryanivegetarian>
+		<biryanivegetarian>
+			<name>Paneer Biryani</name>
+			<price>$11.99</price>
+		</biryanivegetarian>
+		<biryaninonvegetarian>
+			<name>Boneless Chicken Biryani</name>
+			<price>$13.99</price>
+		</biryaninonvegetarian>
+		<biryaninonvegetarian>
+			<name>Chicken Dum Biryani</name>
+			<price>$11.99</price>
+		</biryaninonvegetarian>
+		<biryaninonvegetarian>
+			<name>Gongura Chicken Biryani</name>
+			<price>$13.99</price>
+		</biryaninonvegetarian>
+		<biryaninonvegetarian>
+			<name>Avakai Chicken Biryani</name>
+			<price>$13.99</price>
+		</biryaninonvegetarian>
+	</biryani>
+	<desserts>
+		<name>Gulab Jamun</name>
+		<price>$4.99</price>
+		<description>Pastry Balls Made From Milk Dough Fried Until Golden Brown, And Served In A Sugary Syrup With Cardamom.</description>
+	</desserts>
+	<desserts>
+		<name>Payasam(Kheer)</name>
+		<price>$4.99</price>
+		<description>Traditional Indian Rice Pudding Cooked With Raisins, Cashews, Nuts And Cardamom.</description>
+	</desserts>
+	<desserts>
+		<name>Rasmalai</name>
+		<price>$4.99</price>
+		<description>Snowy Oats Of Sweetened Milk In Rose Water Flavored Milk And Garnished With Pistachio Nuts</description>
+	</desserts>
+	<desserts>
+		<name>Gajar ka halwa</name>
+		<price>$4.99</price>
+		<description>Rich Dessert Made With Fresh Carrots, Milk And Sugar Encapsulated Within The Generous Amount Of Ghee</description>
+	</desserts>
+	<drinks>
+		<name>Coke Products</name>
+		<price>$2.99</price>
+		<description>Soft drinks</description>
+	</drinks>
+	<drinks>
+		<name>Mango Lassi</name>
+		<price>$4.99</price>
+		<description>Mango and Yogurt Drink - Father Of All The Smoothies.</description>
+	</drinks>
+	<drinks>
+		<name>Badam Milk</name>
+		<price>$4.99</price>
+		<description>Special Milk With Badam Flavor Added</description>
+	</drinks>
+	<drinks>
+		<name>Coffee</name>
+		<price>$3.49</price>
+		<description>South Indian Style Coffee</description>
+	</drinks>
+</menu>

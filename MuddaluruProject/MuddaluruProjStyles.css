@@ -1,0 +1,177 @@
+nav			{font-weight:bold;
+			 color:white;
+			 border: 2px solid white;
+			 text-align:center;
+			 background-color:white;
+			 height: 60px;}
+nav h1 {color: sienna;
+		float: left;
+		text-align: center;
+		font-weight: bold;
+		margin-left: 10px;
+		font-style: italic;
+		font-size: 22px;}
+nav:hover ul {display:block;}
+nav ul li {display:inline-block;
+			border-top:2px solid white;
+			background-color: white;
+			width:100px;
+			margin:0;
+			padding:0;
+			list-style:none;}
+nav ul li:hover {background-color:#FFE6EE;}
+a 			{text-decoration:none;
+			 color: sienna;
+			 font-family: math;
+			}
+.main		{background-color: #b6b6b6;
+			font-weight: border;
+			height:50px;}
+body 		{font-family: Helvatica, sans-serif;
+			color:sienna;
+			/* margin-top:25px; */
+			margin-bottom:25px;
+			margin-right:25px;
+			margin-left:25px;
+			background-image:url("Muddalurubg.jpg");
+			/*background-repeat:no-repeat; or repeat-x*/
+			/*background-repeat:repeat-y;*/
+			
+			background-size:100%;
+			}
+.titlewrap {
+	text-align: center;
+	color: sienna;
+	border: 1px solid #FFE6EE;
+	background-color: #FFE6EE;
+}
+h2  {
+	text-align: center;
+	font-family: math;
+}
+
+p {
+	font-style: italic;
+    font-family: math;
+	text-align: center;
+}
+.home{
+	border: 1px solid #FFE6EE;
+    background-color: #FFE6EE;
+    margin-top: 10px;
+    color: sienna;
+    padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-family: math;
+	text-align: center;
+} 
+.menu{
+	border: 1px solid #FFE6EE;
+    background-color: #FFE6EE;
+    margin-top: 10px;
+    color: sienna;
+    padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 10px;
+    padding-bottom: 20px;
+	/* background-image: url("nectar.jpeg"), url("dessertice.jpeg"), url("custard.jpeg"), url("drinks.jpeg");
+	background-size: 100% ; */
+}
+input{
+	color: sienna;
+    background-color: #FFE6EE;
+    border: 1px solid #FFE6EE;
+}
+input:hover {
+	background-color: white;
+	border: 1px solid white;
+	cursor: pointer;
+}
+.buttonWrapper{
+	text-align: center;	
+}
+.about{
+	border: 1px solid #FFE6EE;
+    background-color: #FFE6EE;
+    margin-top: 10px;
+    color: sienna;
+    padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+.contact{
+    border: 1px solid #FFE6EE;
+    background-color: #FFE6EE;
+    margin-top: 10px;
+    color: sienna;
+    padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px;
+	margin-left: 20%;
+	margin-right: 20%;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+.specials{
+    border: 1px solid #FFE6EE;
+    background-color: #FFE6EE;
+    margin-top: 10px;
+    color: sienna;
+    padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px;
+	margin-left: 20%;
+	margin-right: 20%;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+table{
+	font-family: math;
+	padding: 10px;
+	font-style: italic;
+	text-align: center;
+	color: sienna;
+	margin-top: 10px;
+	margin-left: 20%;
+	margin-right:20%;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-bottom: 10px;
+    padding-bottom: 20px;
+	background-color: #FFE6EE;
+	border: 1px solid #FFE6EE;
+	font-size: 22px;
+}
+td{
+	border-right: 1px solid sienna;
+	padding: 10px;
+}
+h1{
+	font-family: math;
+}
+h3{
+	font-family: math;
+}
+h5{
+	font-family: math;
+}
+ul div{
+	font-family: math;
+	text-align: center;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}

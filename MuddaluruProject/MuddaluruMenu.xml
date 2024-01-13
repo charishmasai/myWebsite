@@ -1,0 +1,43 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<curryentrees>
+		<curry>
+			<name>Dal Tadka</name>
+			<price>$8.99</price>
+			<description>Yellow lentils sauteed with onions, tomatoes and spices</description>
+		</curry>
+		<curry>
+			<name>Aloo Gobi Masala</name>
+			<price>$9.99</price>
+			<description>Potatoes and cauliflower cooked in north Indian style gravy</description>
+		</curry>
+		<curry>
+			<name>Channa Palak</name>
+			<price>$9.99</price>
+			<description>Channa and palak with onions, tomatoes, cream and spices</description>
+		</curry>
+		<curry>
+			<name>Paneer Tikka Masala</name>
+			<price>$11.49</price>
+			<description>Homemade cheese cubes cooked in tomato sauce with a touch of special cream</description>
+		</curry>
+		<curry>
+			<name>Chicken Tikka Masala</name>
+			<price>$12.49</price>
+			<description>Boneless grilled chicken cooked with tomato, special spices and a touch of cream</description>
+		</curry>
+		<curry>
+			<name>Butter Chicken</name>
+			<price>$11.99</price>
+			<description>Chicken cooked with spices, herbs and rich buttery sauce</description>
+		</curry>
+		<curry>	
+			<name>Chicken Mughlai</name>
+			<price>$11.99</price>
+			<description>Pieces of chicken in delicious creamy gravy with egg and coriander</description>
+		</curry>
+		<curry>
+			<name>Chicken Chettinadu</name>
+			<price>$12.99</price>
+			<description>Chettinadu traditional curry made with peppercorns and boneless meat</description>
+		</curry>
+</curryentrees>

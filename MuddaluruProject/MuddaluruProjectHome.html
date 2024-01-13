@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Created by Muddaluru SaiCharishma
+		id:700700910-->
+		<meta charset = "utf-8">
+		<title>Muddaluru Website</title>
+		<link rel = "stylesheet" type = "text/css" href = "MuddaluruProjStyles.css" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+		<script>
+			$(document).ready (function() {
+			$(window).on("load", function(){
+				$.get("MuddaluruProjectHome.txt",function(data){
+					$("#homeDetails").html(data);
+					})
+
+			});//end load event
+			});
+		</script>
+	</head>
+	<body>
+		<div class = "main">
+			<nav>
+				<h1>Paradise Indian Cuisine</h1>
+				<ul>
+					<li><a href = "MuddaluruProjectHome.html">Home</a></li>
+					<li><a href = "MuddaluruProjectMenu.html">Menu</a></li>
+					<li><a href = "MuddaluruProjectWeekSpcl.html">Specials</a></li>
+					<li><a href = "MuddaluruProjectCatering.html">Catering</a></li>
+					<li><a href = "MuddaluruProjectOrder.html">Order</a></li>
+					<li><a href = "MuddaluruProjectAbout.html">About</a></li>
+					<li><a href = "MuddaluruProjectContactUs.html">Contact Us</a></li>
+				</ul>
+			</nav>
+			<div class = "titlewrap">
+				<h1>PARADISE</h1>
+				<h3>INDIAN CUISINE</h3>
+				<h5>AUTHENTIC INDIAN FOOD</h5>
+			</div>
+			<div class = "home" id = "homeDetails">
+			</div>
+		</div>
+	</body>
+</html>

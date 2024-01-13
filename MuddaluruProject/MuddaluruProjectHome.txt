@@ -1,0 +1,8 @@
+<!--Created by Muddaluru SaiCharishma
+	700700910-->
+	<p>
+		<h1>The best South Indian Cuisine in Kansas</h1>
+		<h4>We are specialized in providing best customer service. We provide best authentic South Indian food. Spending the time with friends and family at Muddaluru Indian Cuisine gives tremendous satisfaction. We take special pride in our warmhearted hospitality and offers best customer services with a relaxing family environment.</h4>
+	</p>
+	
+	

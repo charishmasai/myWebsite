@@ -1,0 +1,18 @@
+{
+	"weekendspecials" : [
+		{"name": "Gutti Vankaya Biryani", "price": "$11.49"},
+		{"name": "Gutti Vankaya Pulav", "price": "$11.49"},
+		{"name": "NatuKodi Fry Pulav", "price": "$15.49"},
+		{"name": "Boneless Mutton Fry Biryani", "price": "$15.49"},
+		{"name": "Boneless Mutton Fry Pulav", "price": "$15.49"},
+		{"name": "Natukodi Fry Biryani", "price": "$13.99"},
+		{"name": "Parotta with Veg Khorma", "price": "$14.99"},
+		{"name": "Parotta with Chicken Curry", "price": "$15.99"},
+		{"name": "Parotta with Mutton Curry", "price": "$16.99"},
+		{"name": "Parotta with Natukodi Fry", "price": "$16.99"},
+		{"name": "Parotta with Mutton Fry", "price": "$16.99"},
+		{"name": "Bucket Guthi Vankaya Fry Pulav", "price": "$31.99"},
+		{"name": "Bucket Kheema Goat Pulav", "price": "$39.99"},
+		{"name": "Bucket Natukodi Biryani", "price": "$34.49"}
+	]
+}
